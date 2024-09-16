@@ -1,2 +1,2 @@
 # Go-Application-Test
-go run main.go
+Run Command : - go run main.go
